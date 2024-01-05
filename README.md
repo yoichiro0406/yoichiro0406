@@ -5,7 +5,6 @@
 - Point cloud processing
 - Medical image analysis
 - Gaze estimation
-- AWS
 
 ## Education
 - 2017 - 2021: B.E. of Electrical and Electronic Engineering @ UTokyo.
