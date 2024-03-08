@@ -7,13 +7,13 @@
 - Gaze estimation
 
 ## Education
-- 2017 - 2021: B.E. of Electrical and Electronic Engineering @ UTokyo.
 - 2021 - 2023: M.E. of Information and Communication Engineering @ UTokyo.
+- 2017 - 2021: B.E. of Electrical and Electronic Engineering @ UTokyo.
 
 ## Experience
-- 2020 - 2023: Part-time engineer at DeepEyeVision.inc
-- 2021 - 2022: Internship and part-time engineer at Preferred Networks
 - 2023 - Current: FTE at Preferred Networks
+- 2021 - 2022: Internship and part-time engineer at Preferred Networks
+- 2020 - 2023: Part-time engineer at DeepEyeVision.inc
 
 ## Publications
 - <ins>Yoichiro Hisadome</ins>, Yusuke Matsui, "Cascading Feature Extraction for Fast Point Cloud Registration", BMVC2021 poster ([link](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0600.html))
