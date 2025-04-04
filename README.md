@@ -18,5 +18,4 @@
 ## Publications
 - <ins>Yoichiro Hisadome</ins>, Yusuke Matsui, "Cascading Feature Extraction for Fast Point Cloud Registration", BMVC2021 poster ([link](https://www.bmvc2021-virtualconference.com/conference/papers/paper_0600.html))
 - <ins>Yoichiro Hisadome</ins>, Tianyi Wu, Jiawei Qin, Yusuke Sugano, "Rotation-Constrained Cross-View Feature Fusion for Multi-View Appearance-Based Gaze Estimation", WACV2024, oral ([link](https://openaccess.thecvf.com/content/WACV2024/html/Hisadome_Rotation-Constrained_Cross-View_Feature_Fusion_for_Multi-View_Appearance-Based_Gaze_Estimation_WACV_2024_paper.html))
-<!-- - Satoru Inoda, Hidenori Takahashi, Hitoshi Yamagata, <ins>Yoichiro Hisadome</ins>, Yusuke Kondo, Hironobu Tampo, Shinichi Sakamoto, Yusaku Katada, Toshihide Kurihara, Hidetoshi Kawashima, Yasuo Yanagi, "Deep-learning-based AI for evaluating estimated nonperfusion areas requiring further examination in ultra-widefield fundus images", Scientific reports
--->
+- Satoru Inoda, Hidenori Takahashi, Hitoshi Yamagata, <ins>Yoichiro Hisadome</ins>, Yusuke Kondo, Hironobu Tampo, Shinichi Sakamoto, Yusaku Katada, Toshihide Kurihara, Hidetoshi Kawashima, Yasuo Yanagi, "Deep-learning-based AI for evaluating estimated nonperfusion areas requiring further examination in ultra-widefield fundus images", Scientific reports
